@@ -1,0 +1,1 @@
+# husky-prettier-and-eslint-config-for-nextjs
